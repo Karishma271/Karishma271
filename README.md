@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=.net)
-![C#](https://img.shields.io/badge/-C#-000?&logo=Csharp)
+![C#](https://img.shields.io/badge/-C#-000?&logo=csharp)
 ![Git](https://img.shields.io/badge/-Git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
 
