@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karishma Patel
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.>
+> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life.
 > 
 ### 🛠️ Tech Stack:
 
@@ -17,6 +17,22 @@
 ![C#](https://img.shields.io/badge/-csharp-000?&logo=csharp)
 ![Git](https://img.shields.io/badge/-Git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
+
+## Education
+### Humber College, Toronto, Canada
+- **Web Development, 2024-2025**
+### Navrachana University, Vadodara, Gujarat
+- **Bachelor of Computer Applicationas, 2019-2022**
+---
+
+[Email](mailto:karishmapatel273@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karishma-patel-97a314211/) | [GitHub](https://github.com/Karishma271)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karishma-patel-97a314211/)](https://www.linkedin.com/in/karishma-patel-97a314211/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@karishmapatel273@gmail.com)](mailto:karishmapatel273@gmail.com)
+
+---
+
+
+
 
 
 
