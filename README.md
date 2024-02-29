@@ -12,11 +12,11 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Android](https://img.shields.io/badge/-Php-000?&logo=Android)
-![ASP.NET](https://img.shields.io/badge/-Php-000?&logo=Asp.net)
-![C#](https://img.shields.io/badge/-Php-000?&logo=C#)
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=Asp.net)
+![C#](https://img.shields.io/badge/-C#-000?&logo=C#)
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
 
 
 
