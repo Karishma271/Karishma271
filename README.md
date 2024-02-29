@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Karishma Patel
+
+> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.> 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
