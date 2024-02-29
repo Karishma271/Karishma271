@@ -25,7 +25,7 @@
 - **Bachelor of Computer Applicationas, 2019-2022**
 ---
 
-[Email](mailto:karishmapatel273@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karishma-patel-97a314211/) | [GitHub](https://github.com/Karishma271)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karishma-patel-97a314211/)](https://www.linkedin.com/in/karishma-patel-97a314211/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@karishmapatel273@gmail.com)](mailto:karishmapatel273@gmail.com)
 
